@@ -1,6 +1,6 @@
 // MASTER STUDENT LIST (faculty only). Students must NOT edit this file.
 window.ROSTER = [
-  { reg: "U03MJ24S0000", name: "Inbaraj"},
+  { reg: "DEMO", name: "Inbaraj"},
   { reg: "U03MJ24S0001", name: "Manoj A" },
   { reg: "U03MJ24S0002", name: "Abhilash D" },
   { reg: "U03MJ24S0003", name: "Akash S" },
