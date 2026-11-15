@@ -5,7 +5,7 @@ window.PHONES["DEMO"] = {
   android: "17",
   ram: 8,
   rom: 256,
-  apps: ["WhatsApp", "YouTube", "Chrome"],
+  apps: ["WhatsApp", "One Piece Bounty Rush", "Music"],
   pro: "Excellent camera and clean Android experience",
   con: "Charging speed could be better"
 };
