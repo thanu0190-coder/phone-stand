@@ -1,6 +1,6 @@
 window.PHONES = window.PHONES || {};
 
-window.PHONES["U03MJ24S0060.js"] = {
+window.PHONES["U03MJ24S0060"] = {
   phone: "redmi 12 5g",
   android: "16",
   ram: 16,
