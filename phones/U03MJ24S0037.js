@@ -1,7 +1,7 @@
 window.PHONES = window.PHONES || {};
 
 window.PHONES["U03MJ24S0037"] = {
-  phone: "Google Pixel 9a",
+  phone: "vivo y21",
   android: "17",
   ram: 8,
   rom: 256,
