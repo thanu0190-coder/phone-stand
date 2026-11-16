@@ -7,5 +7,5 @@ window.PHONES["U03MJ24S0060"] = {
   rom: 128,
   apps: ["naruto", "One piece", "black clover"],
   pro: "Excellent animes and clean story experience",
-  con: "large volume of episodes"
+  con: "large volume of episodes with fillers"
 };
